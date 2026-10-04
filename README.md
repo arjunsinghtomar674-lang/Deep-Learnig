@@ -70,6 +70,5 @@ Deep-Learning/
 ├── 06-Lecture-5-PerceptronDiagram.png
 ├── 07-Lecture-6.ipynb
 ├── 08-Lecture-7.ipynb
-├── ...
-│
+├── ....
 └── README.md
