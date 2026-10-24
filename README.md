@@ -6,7 +6,7 @@ This repository contains my lecture-wise notes, practical implementations, exper
 
 I am following the **CampusX / 100 Days of Deep Learning** learning path and implementing the concepts practically alongside the lectures.
 
----
+----
 
 ## 📚 Learning Roadmap
 
@@ -54,7 +54,7 @@ I am following the **CampusX / 100 Days of Deep Learning** learning path and imp
 - GAN
 - Object Detection
 - Image Segmentation
-- NLP
+- NLP 
 
 ---
 
