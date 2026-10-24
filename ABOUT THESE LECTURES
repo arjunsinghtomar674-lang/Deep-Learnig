@@ -1,0 +1,34 @@
+# Deep Learning
+
+I have completed my Deep Learning learning journey and uploaded my practice notebooks and implementations to this repository.
+
+## Topics Covered
+
+- Artificial Neural Networks (ANN)
+- Forward Propagation and Backpropagation
+- Activation Functions, Loss Functions, and Optimizers
+- Regularization, Dropout, and Batch Normalization
+- Convolutional Neural Networks (CNN)
+- Image Classification and Data Augmentation
+- Recurrent Neural Networks (RNN)
+- LSTM and GRU
+- Bidirectional and Deep RNNs
+- Natural Language Processing (NLP) Basics
+- Encoder-Decoder Architecture
+- Sequence-to-Sequence Models
+- Attention Mechanism
+
+## Tools & Technologies
+
+- Python
+- TensorFlow and Keras
+- NumPy and Pandas
+- Matplotlib and Seaborn
+- Jupyter Notebook / Google Colab
+- Git and GitHub
+
+## Goal
+
+To strengthen my practical Deep Learning skills by implementing concepts, building projects, and preparing for Machine Learning and AI Engineer roles.
+
+**Learning by implementing, practicing, and building projects.**
