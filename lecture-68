@@ -1,0 +1,41 @@
+# Day 68: Encoder-Decoder Architecture | Seq2Seq
+
+## What is Seq2Seq?
+Sequence-to-Sequence (Seq2Seq) is a neural network architecture that
+maps an input sequence to an output sequence.
+
+Examples:
+- Machine translation
+- Text summarization
+- Chatbots
+- Sequence transformation
+
+## Encoder
+The encoder reads the input tokens and summarizes the sequence into
+a hidden state and a cell state.
+
+## Decoder
+The decoder uses the encoder states to generate output tokens one
+at a time.
+
+## Teacher Forcing
+During training, the decoder receives the correct previous output
+token instead of its own previous prediction.
+
+## Special Tokens
+- PAD: Padding token
+- SOS: Start-of-sequence token
+- EOS: End-of-sequence token
+
+## Important Parameters
+- return_state=True: Returns the final states.
+- return_sequences=True: Returns an output for each time step.
+- initial_state: Initializes the decoder with encoder states.
+- Embedding: Converts token IDs into dense vectors.
+
+## Key Takeaway
+The encoder processes the input, and the decoder generates the output.
+The hidden and cell states connect the two parts.
+
+This example uses a small sequence-reversal task to demonstrate
+the architecture. It is not a production language model.
