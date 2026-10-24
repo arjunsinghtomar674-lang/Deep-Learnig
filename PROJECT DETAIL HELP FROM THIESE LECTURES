@@ -1,0 +1,38 @@
+## Projects & Practical Implementation
+
+- **Dog vs Cat Classification:** Image classification using CNN.
+- **Next-Word Prediction:** Text prediction using an LSTM model.
+- **Model Training:** Practiced training models, adjusting epochs, and improving performance.
+- **Data Preprocessing:** Prepared datasets for training and testing.
+- **Model Evaluation:** Analyzed model performance using appropriate evaluation metrics.
+- **Hands-on Practice:** Implemented Deep Learning concepts using TensorFlow and Keras.
+
+## Key Learnings
+
+- Understanding how neural networks learn from data.
+- Building and training Deep Learning models.
+- Working with image and sequential data.
+- Understanding the importance of preprocessing and feature representation.
+- Identifying overfitting and applying regularization techniques.
+- Improving practical coding and problem-solving skills.
+
+## Learning Resources
+
+- CampusX — Deep Learning Playlist
+- Official TensorFlow Documentation
+- Kaggle Datasets and Notebooks
+- Practice notebooks and personal implementations
+
+## Future Goals
+
+- Implement Transformers from scratch using TensorFlow.
+- Explore advanced NLP and Large Language Models (LLMs).
+- Build more real-world Deep Learning projects.
+- Deploy models using web frameworks and APIs.
+- Continue learning AI and Machine Learning Engineering.
+
+## Repository Purpose
+
+This repository serves as a record of my Deep Learning journey, containing learning notes, code implementations, experiments, and projects to track my progress and strengthen my practical skills.
+
+**Consistency + Practice + Projects = Continuous Improvement 🚀**
